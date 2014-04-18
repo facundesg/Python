@@ -4,7 +4,7 @@
 #FUNÇÕES PARA CALCULAR OS PARAMETROS DE UM TRAFO DE DOIS ENROLAMENTOS
 #A PARTIR DOS ENSAIOS CC E CA
 
-from numpy import sqrt
+from math import sqrt
 
 def fazEnsaioCC(S, Pmed, Vmed, Vnom):
     Vcc = Vmed * Vnom                      #Tensao de curto é a tensao em porcentagem * tensao nominal
