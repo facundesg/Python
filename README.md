@@ -1,6 +1,10 @@
 Python in EE
 ======
+EN:
+This repository is composed of Python scripts and tools for applications in Electrical and Electronics Engineering.
 
-Este repositório é um conjunto de scripts em Python com ferramentas, aplicações e soluções de problemas em Engenharia Elétrica.
+FR:
+Ce depôt est composée par des outils et applications en Python pour des problèmes dans l'ingénierie électrique et électronique.
 
-This repository is composed of Python scripts with tools, applications and solved problems in Electrical Engineering.
+BR:
+Este repositório é um conjunto de scripts em Python com ferramentas e aplicações para problemas em Engenharia Elétrica.
